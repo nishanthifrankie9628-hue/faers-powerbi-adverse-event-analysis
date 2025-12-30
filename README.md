@@ -83,33 +83,5 @@ The Power BI dashboard includes:
 
 ---
 
-## Repository Structure
-faers-powerbi-adverse-event-analysis/
-│
-├── README.md
-├── Report/
-│   └── FAERS_Final_Project_Report.pdf
-├── PowerBI/
-│   └── FAERS_Dashboard.pbix
-├── Data/
-│   └── Cleaned_FAERS_Dataset.xlsx
-└── Screenshots/
-    └── Visualization_and_DAX_Images/
 
----
 
-## Documentation
-For full documentation with screenshots and explanations, refer to the detailed project report available in the Report folder.
-
----
-
-## Author
-Nishanthi J  
-M.Pharm | Data Analytics Learner  
-Power BI | Excel | Healthcare & Pharmacovigilance Analytics
-
----
-
-## Status
-Completed  
-Portfolio-ready
